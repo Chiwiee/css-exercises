@@ -9,3 +9,8 @@
 .odd#p2 {
 	font-size: 24px;
 }
+.even#div2 {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}

@@ -7,15 +7,8 @@ body {
 	color: hsl(0, 0%, 0%);
 	font-weight: bold;
 }
-
 .small-para {
-	font-size: 18px;
-	font-weight: 800;
-}
-
-p {
-	font-weight: bold;
-	font-size: 28px;
+	font-size: 12px;
 }
 
 #confirm-button {
@@ -33,5 +26,5 @@ p {
 div.child {
 	color: rgb(0, 0, 0);
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 13px;
 }
